@@ -1,0 +1,6 @@
+*.log
+temp/
+__pycache__/
+*.pyc
+.vscode/
+src/__pycache__
